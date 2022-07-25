@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5680cd8-17a6-4100-9d97-8c0b3702eefb" name="Changes" comment="Start 6 blocks 005: Feat: Use styled.components with dynamic change CSS">
-      <change beforePath="$PROJECT_DIR$/src/components/CourseGoals/CourseInput/CourseInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CourseGoals/CourseInput/CourseInput.js" afterDir="false" />
-    </list>
+    <list default="true" id="c5680cd8-17a6-4100-9d97-8c0b3702eefb" name="Changes" comment="Start 6 blocks 005: Feat: Use styled.components with dynamic change CSS &amp; @media" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -60,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658689915726</updated>
       <workItem from="1658689917009" duration="1459000" />
-      <workItem from="1658694960702" duration="6394000" />
+      <workItem from="1658694960702" duration="7073000" />
     </task>
     <task id="LOCAL-00001" summary="Start 6 blocks 002 Feat: npm i project.">
       <created>1658696529251</created>
@@ -83,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658788075127</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Start 6 blocks 005: Feat: Use styled.components with dynamic change CSS &amp; @media">
+      <created>1658788372668</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658788372668</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +127,7 @@
     <MESSAGE value="Start 6 blocks 002 Feat: npm i project." />
     <MESSAGE value="Start 6 blocks 004: Feat: Create style components - Button.js" />
     <MESSAGE value="Start 6 blocks 005: Feat: Use styled.components with dynamic change CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start 6 blocks 005: Feat: Use styled.components with dynamic change CSS" />
+    <MESSAGE value="Start 6 blocks 005: Feat: Use styled.components with dynamic change CSS &amp; @media" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start 6 blocks 005: Feat: Use styled.components with dynamic change CSS &amp; @media" />
   </component>
 </project>
