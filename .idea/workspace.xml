@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5680cd8-17a6-4100-9d97-8c0b3702eefb" name="Changes" comment="Start 6 blocks 002 Feat: npm i project." />
+    <list default="true" id="c5680cd8-17a6-4100-9d97-8c0b3702eefb" name="Changes" comment="Start 6 blocks 002 Feat: npm i project.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658689915726</updated>
       <workItem from="1658689917009" duration="1459000" />
-      <workItem from="1658694960702" duration="3657000" />
+      <workItem from="1658694960702" duration="4004000" />
     </task>
     <task id="LOCAL-00001" summary="Start 6 blocks 002 Feat: npm i project.">
       <created>1658696529251</created>
