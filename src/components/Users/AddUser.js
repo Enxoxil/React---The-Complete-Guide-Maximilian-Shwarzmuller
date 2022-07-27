@@ -3,9 +3,10 @@ import Card from "../UI/Card";
 import classes from './AddUser.module.css'
 import Button from "../UI/Button";
 
-const AddUser = () => {
+const AddUser = ({onAddUser}) => {
     const [enteredUsername, setEnteredUsername] = useState('');
     const [enteredAge, setEnteredAge] = useState('');
+
     const addUserHandler = (e) => {
         e.preventDefault();
         if (enteredUsername.trim().length === 0 || enteredAge.trim().length === 0){
@@ -16,7 +17,7 @@ const AddUser = () => {
             console.log('Age must be > 0')
             return;
         }
-        console.log(enteredUsername, enteredAge);
+        onAddUser(enteredUsername, enteredAge);
         setEnteredUsername('');
         setEnteredAge('');
     }
