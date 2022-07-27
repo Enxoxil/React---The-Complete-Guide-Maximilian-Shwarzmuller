@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5680cd8-17a6-4100-9d97-8c0b3702eefb" name="Changes" comment="8 block deployed">
-      <change afterPath="$PROJECT_DIR$/src/components/Users/AddUser.js" afterDir="false" />
+    <list default="true" id="c5680cd8-17a6-4100-9d97-8c0b3702eefb" name="Changes" comment="8 block 002 Feat: AddUser.js">
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Card.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Users/AddUser.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Users/AddUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/AddUser.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="SCSS File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -28,9 +31,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.txt" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -42,18 +42,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -70,6 +72,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Notebook\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c5680cd8-17a6-4100-9d97-8c0b3702eefb" name="Changes" comment="" />
@@ -78,7 +83,9 @@
       <option name="presentableId" value="Default" />
       <updated>1658689915726</updated>
       <workItem from="1658689917009" duration="1459000" />
-      <workItem from="1658694960702" duration="9979000" />
+      <workItem from="1658694960702" duration="10919000" />
+      <workItem from="1658946731857" duration="590000" />
+      <workItem from="1658950785824" duration="1731000" />
     </task>
     <task id="LOCAL-00001" summary="Start 6 blocks 002 Feat: npm i project.">
       <created>1658696529251</created>
@@ -122,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658869498778</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="8 block 002 Feat: AddUser.js">
+      <created>1658870628759</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658870628760</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +171,11 @@
     <MESSAGE value="Start 6 blocks 005: Feat: Use styled.components with dynamic change CSS" />
     <MESSAGE value="Start 6 blocks 005: Feat: Use styled.components with dynamic change CSS &amp; @media" />
     <MESSAGE value="8 block deployed" />
-    <option name="LAST_COMMIT_MESSAGE" value="8 block deployed" />
+    <MESSAGE value="8 block 002 Feat: AddUser.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 block 002 Feat: AddUser.js" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
