@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5680cd8-17a6-4100-9d97-8c0b3702eefb" name="Changes" comment="8 block 007 Feat: Create UsersList.js and CSS for that.">
+    <list default="true" id="c5680cd8-17a6-4100-9d97-8c0b3702eefb" name="Changes" comment="8 block 008 Feat: Create AddUser.js &amp; UserList.js">
+      <change afterPath="$PROJECT_DIR$/src/components/UI/ErrorModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/ErrorModal.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Users/AddUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/AddUser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Users/UsersList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/UsersList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
       <workItem from="1658689917009" duration="1459000" />
       <workItem from="1658694960702" duration="10919000" />
       <workItem from="1658946731857" duration="590000" />
-      <workItem from="1658950785824" duration="6782000" />
+      <workItem from="1658950785824" duration="8179000" />
     </task>
     <task id="LOCAL-00001" summary="Start 6 blocks 002 Feat: npm i project.">
       <created>1658696529251</created>
@@ -170,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658958801812</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="8 block 008 Feat: Create AddUser.js &amp; UserList.js">
+      <created>1658959783583</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658959783583</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +218,8 @@
     <MESSAGE value="8 block 004 Feat: add locale state &amp; usernameChangeHandler, ageChangeHandler;" />
     <MESSAGE value="8 block 006 Feat: add validation and change uncontrolled component to controlled component" />
     <MESSAGE value="8 block 007 Feat: Create UsersList.js and CSS for that." />
-    <option name="LAST_COMMIT_MESSAGE" value="8 block 007 Feat: Create UsersList.js and CSS for that." />
+    <MESSAGE value="8 block 008 Feat: Create AddUser.js &amp; UserList.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 block 008 Feat: Create AddUser.js &amp; UserList.js" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
