@@ -14,7 +14,7 @@ const AddUser = ({onAddUser}) => {
         if (enteredUsername.trim().length === 0 || enteredAge.trim().length === 0) {
             setError({
                 title: 'Invalid name or age.',
-                message: 'Invalid name or age. Please enter valid name & age',
+                message: 'Invalid name or age. Please enter valid name & age.',
             })
             return;
         }
