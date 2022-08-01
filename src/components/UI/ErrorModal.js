@@ -1,7 +1,7 @@
 import React from 'react';
 import classes from './ErrorModal.module.css';
-import Card from "./Card";
-import Button from "./Button";
+import Card from "./Card/Card";
+import Button from "./Button/Button";
 import ReactDOM from 'react-dom';
 
 const Backdrop = ({onConfirm}) => {

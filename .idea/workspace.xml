@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="c5680cd8-17a6-4100-9d97-8c0b3702eefb" name="Changes" comment="9 block 006 Feat: Create portals!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/Button.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Card/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/Card.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Card/Card.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/ErrorModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/ErrorModal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Users/AddUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/AddUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Users/UsersList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/UsersList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +43,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Notebook\WebstormProjects\untitled2\src\components\UI\Card" />
+      <recent name="C:\Users\Notebook\WebstormProjects\untitled2\src\components\UI\Button" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -62,6 +75,7 @@
       <workItem from="1658689917009" duration="1459000" />
       <workItem from="1658694960702" duration="3273000" />
       <workItem from="1659037259698" duration="4203000" />
+      <workItem from="1659380209170" duration="4151000" />
     </task>
     <task id="LOCAL-00001" summary="Start 6 blocks 002 Feat: npm i project.">
       <created>1658696529251</created>
