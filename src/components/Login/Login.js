@@ -1,8 +1,9 @@
-import React, {useEffect, useReducer, useState} from 'react';
+import React, {useContext, useEffect, useReducer, useState} from 'react';
 
 import Card from '../UI/Card/Card';
 import classes from './Login.module.css';
 import Button from '../UI/Button/Button';
+import AuthContext from "../../store/auth-context";
 
 const emailReducer = (state, action) => {
     switch (action.type) {
@@ -39,7 +40,7 @@ const Login = (props) => {
 
     const { isValid: emailValid} = emailState; // isValid: emailValid - псевжоним в деструктуризации
     const { isValid: passValid} = passState;
-
+    const authCtx = useContext(AuthContext);
 
     useEffect(() => {
 
@@ -70,7 +71,7 @@ const Login = (props) => {
 
     const submitHandler = (event) => {
         event.preventDefault();
-        props.onLogin(emailState.value, passState.value);
+        authCtx.onLogin(emailState.value, passState.value);
     };
 
     return (
