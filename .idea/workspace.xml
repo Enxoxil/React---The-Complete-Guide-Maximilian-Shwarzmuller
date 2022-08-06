@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5680cd8-17a6-4100-9d97-8c0b3702eefb" name="Changes" comment="10 block 016: use useContext, use .Provider in all&#10; component">
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.module.css" afterDir="false" />
+    <list default="true" id="c5680cd8-17a6-4100-9d97-8c0b3702eefb" name="Changes" comment="10 block 019: separate to some smallest components">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Login/Login.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/Login.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/Input/Input.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +80,7 @@
       <workItem from="1659037259698" duration="4203000" />
       <workItem from="1659380209170" duration="13168000" />
       <workItem from="1659639758683" duration="6564000" />
-      <workItem from="1659729418687" duration="5440000" />
+      <workItem from="1659729418687" duration="14381000" />
     </task>
     <task id="LOCAL-00001" summary="Start 6 blocks 002 Feat: npm i project.">
       <created>1658696529251</created>
@@ -147,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659734479314</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="10 block 019: separate to some smallest components">
+      <created>1659736655628</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1659736655628</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +191,7 @@
     <MESSAGE value="10 block 013: use useContext, use .Provider" />
     <MESSAGE value="10 block 015: use useContext, use .Provider in component" />
     <MESSAGE value="10 block 016: use useContext, use .Provider in all&#10; component" />
-    <option name="LAST_COMMIT_MESSAGE" value="10 block 016: use useContext, use .Provider in all&#10; component" />
+    <MESSAGE value="10 block 019: separate to some smallest components" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 block 019: separate to some smallest components" />
   </component>
 </project>
